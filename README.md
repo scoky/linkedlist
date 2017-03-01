@@ -1,0 +1,2 @@
+# linkedlist
+python linkedlist implementation
